@@ -1,7 +1,6 @@
 function resizeCanvas(canvas) {
-    canvas.width = canvas.clientWidth;
-    canvas.height = canvas.clientHeight;
-    
+  canvas.width = canvas.clientWidth;
+  canvas.height = canvas.clientHeight;
 }
 
-export {resizeCanvas};
+export { resizeCanvas };
