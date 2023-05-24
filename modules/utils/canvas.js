@@ -3,3 +3,5 @@ function resizeCanvas(canvas) {
     canvas.height = canvas.clientHeight;
     
 }
+
+export {resizeCanvas};
